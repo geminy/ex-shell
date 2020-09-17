@@ -1,0 +1,4 @@
+usage
+
+using ' not "
+sed 's/:/ /g' | awk '{print $2}'

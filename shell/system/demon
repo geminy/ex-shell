@@ -1,0 +1,8 @@
+#!/bin/sh
+
+main()
+{
+	ls > ls.txt
+}
+
+main

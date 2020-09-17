@@ -1,0 +1,7 @@
+a.out
+demon
+ex
+improve
+ls.txt
+ps.txt
+system.c
